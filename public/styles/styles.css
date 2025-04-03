@@ -1,3 +1,12 @@
 a {
     color: cyan;
 }
+
+.nom {
+    background-color: tomato;
+}
+
+#Profile_id {
+    color: cadetblue;
+    font-style: italic;
+}
