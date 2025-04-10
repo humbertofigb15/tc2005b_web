@@ -14,7 +14,7 @@ a {
 }
 
 #is {
-    color: red;
+    color: rgb(0, 89, 255);
     font-style: italic;
     font-weight: 500;
 }
@@ -46,3 +46,16 @@ a {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+#loginBtn:hover {
+    background-color: rgb(0, 149, 255);
+    color: white;
+    cursor: pointer;
+  }
+  
+  #welcomeBtn:hover {
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+  }
+  
