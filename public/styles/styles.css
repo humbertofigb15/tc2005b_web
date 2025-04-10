@@ -3,6 +3,11 @@ a {
     margin: 20px;
 }
 
+#TC {
+    color: rgb(52, 150, 255);
+    font-weight: bold;
+}
+
 .nom {
     background-color: tomato;
 }
@@ -40,11 +45,11 @@ a {
 }
 
 .form {
-    max-width: 330px;
-    padding: 2rem;
+    max-width: 500px;
+    padding: 3rem 8rem;
     background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.1);
 }
 
 #loginBtn:hover {
